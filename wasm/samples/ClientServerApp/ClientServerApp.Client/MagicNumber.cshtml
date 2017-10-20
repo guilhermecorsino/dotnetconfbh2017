@@ -1,0 +1,98 @@
+@TagName("magic-number")
+
+<div>
+
+    <div class="row">
+        <div class="col-md-6 text-center">
+            @startMessage
+        </div>
+    </div>
+    
+    <div class="row pt-2">
+        <div class="col-md-6 text-center">
+            <button class="btn btn-primary" @onclick(ClickStart)>Start</button>
+        </div>
+    </div>    
+    
+    <div class="row pt-2">
+        <div class="col-md-offset-1 col-md-4">
+            <input type="number" class="form-control" @bind(testNumber) />
+        </div>
+    </div>
+
+    <div class="row pt-2">
+        <div class="col-md-6 text-center">
+            <button class="btn btn-success" @onclick(ClickTry)>Try</button>
+        </div>
+    </div>
+
+    <div class="row pt-2">
+        <div class="col-md-6 text-center">
+            <p>@message</p>
+        </div>
+    </div>
+
+    <div class="row pt-2">
+        <div class="col-md-6 text-center">
+            <strong>@attempts?.Count</strong> attempts
+        </div>
+    </div>
+
+    <div class="row pt-2">
+        <div class="col-md-12 text-center">
+            @foreach (int attempt in attempts)
+            {
+                <span>@attempt</span>   
+            }
+        </div>
+    </div>
+
+    <small>@magicNumber</small>
+
+</div>
+
+@functions {
+
+    private string startMessage = @"Click Start, 
+        try a number, 
+        and good luck!";
+
+    private int magicNumber;
+    private string testNumber;
+
+    private string message;
+
+    private List<int> attempts = new List<int>();
+
+    void ClickStart() {
+        testNumber = string.Empty;
+        attempts = new List<int>();
+        startMessage = string.Empty;
+        Random random = new Random();
+        magicNumber = random.Next(0, 100);
+    }
+
+    void ClickTry() {
+
+        int parsedTestNumber = Int32.Parse(testNumber);
+
+        if (magicNumber == parsedTestNumber)
+            message = "Good, job!";
+        else {
+
+            DefineMessage();
+
+            void DefineMessage() {
+                if (attempts.Contains(parsedTestNumber))
+                    message = "You already tried this number!";
+                else if (magicNumber < parsedTestNumber)
+                    message = "Try a smaller number.";
+                else if (magicNumber > parsedTestNumber)
+                    message = "Try a bigger number.";
+            }
+        }
+
+        attempts.Add(parsedTestNumber);
+    }
+
+}
