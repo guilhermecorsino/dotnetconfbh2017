@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\..\version.props" />
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <StartupObject>Blazor.Sdk.Program</StartupObject>
+    <AssemblyName>dotnet-blazor</AssemblyName>
+    <PackageType>DotnetCliTool</PackageType>
+    <PackageId>Blazor.Host</PackageId>
+    <PackageOutputPath>$(MSBuildThisFileDirectory)../../artifacts/</PackageOutputPath>
+  </PropertyGroup>
+  <!-- Stuff needed for 'host' command -->
+  <ItemGroup>
+    <EmbeddedResource Include="wwwroot/_framework/**/*.*" />
+    <EmbeddedResource Include="../DNA/corlib/bin/Debug/netstandard1.3/corlib.dll">
+      <LogicalName>$(ProjectName).wwwroot._framework.corlib.dll</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="../Blazor.Runtime/bin/Debug/netstandard1.6/Blazor.Runtime.dll">
+      <LogicalName>$(ProjectName).wwwroot._framework.Blazor.Runtime.dll</LogicalName>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.0.0-preview2-final" />
+    <PackageReference Include="Microsoft.AspNetCore.WebSockets" Version="2.0.0-preview2-final" />
+    <PackageReference Include="Microsoft.AspNetCore.ResponseCompression" Version="2.0.0-preview2-final" />
+    <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.0.0-preview2-final" />
+    <PackageReference Include="System.IO.FileSystem.Watcher" Version="4.3.0" />
+
+    <ProjectReference Include="../DNA/corlib/corlib.csproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="../Blazor.Compiler/Blazor.Compiler.csproj" />
+    <ProjectReference Include="../Blazor.Runtime/Blazor.Runtime.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/AngleSharp/bin/Debug/netstandard1.3/Blazor.AngleSharp.deps.json
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/AngleSharp/bin/Debug/netstandard1.3/Blazor.AngleSharp.dll
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/AngleSharp/bin/Debug/netstandard1.3/Blazor.AngleSharp.pdb
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/AngleSharp/obj/Debug/netstandard1.3/AngleSharp.Core.csproj.CoreCompileInputs.cache
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/AngleSharp/obj/Debug/netstandard1.3/AngleSharp.Core.AssemblyInfoInputs.cache
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/AngleSharp/obj/Debug/netstandard1.3/AngleSharp.Core.AssemblyInfo.cs
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/AngleSharp/obj/Debug/netstandard1.3/Blazor.AngleSharp.dll
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/AngleSharp/obj/Debug/netstandard1.3/Blazor.AngleSharp.pdb

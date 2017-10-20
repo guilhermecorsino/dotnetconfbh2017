@@ -1,0 +1,8 @@
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/samples/ClientServerApp/ClientServerApp.Shared/bin/Debug/netstandard1.3/ClientServerApp.Shared.deps.json
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/samples/ClientServerApp/ClientServerApp.Shared/bin/Debug/netstandard1.3/ClientServerApp.Shared.dll
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/samples/ClientServerApp/ClientServerApp.Shared/bin/Debug/netstandard1.3/ClientServerApp.Shared.pdb
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/samples/ClientServerApp/ClientServerApp.Shared/obj/Debug/netstandard1.3/ClientServerApp.Shared.csproj.CoreCompileInputs.cache
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/samples/ClientServerApp/ClientServerApp.Shared/obj/Debug/netstandard1.3/ClientServerApp.Shared.AssemblyInfoInputs.cache
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/samples/ClientServerApp/ClientServerApp.Shared/obj/Debug/netstandard1.3/ClientServerApp.Shared.AssemblyInfo.cs
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/samples/ClientServerApp/ClientServerApp.Shared/obj/Debug/netstandard1.3/ClientServerApp.Shared.dll
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/samples/ClientServerApp/ClientServerApp.Shared/obj/Debug/netstandard1.3/ClientServerApp.Shared.pdb

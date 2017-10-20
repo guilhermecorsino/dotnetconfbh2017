@@ -1,0 +1,16 @@
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Host/bin/Debug/netcoreapp2.0/dotnet-blazor.deps.json
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Host/bin/Debug/netcoreapp2.0/dotnet-blazor.runtimeconfig.json
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Host/bin/Debug/netcoreapp2.0/dotnet-blazor.runtimeconfig.dev.json
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Host/bin/Debug/netcoreapp2.0/dotnet-blazor.dll
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Host/bin/Debug/netcoreapp2.0/dotnet-blazor.pdb
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Host/bin/Debug/netcoreapp2.0/Blazor.AngleSharp.dll
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Host/bin/Debug/netcoreapp2.0/Blazor.Compiler.dll
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Host/bin/Debug/netcoreapp2.0/Blazor.Runtime.dll
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Host/bin/Debug/netcoreapp2.0/Blazor.Compiler.pdb
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Host/bin/Debug/netcoreapp2.0/Blazor.Runtime.pdb
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Host/bin/Debug/netcoreapp2.0/Blazor.AngleSharp.pdb
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Host/obj/Debug/netcoreapp2.0/Blazor.Host.csproj.CoreCompileInputs.cache
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Host/obj/Debug/netcoreapp2.0/Blazor.Host.AssemblyInfoInputs.cache
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Host/obj/Debug/netcoreapp2.0/Blazor.Host.AssemblyInfo.cs
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Host/obj/Debug/netcoreapp2.0/dotnet-blazor.dll
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Host/obj/Debug/netcoreapp2.0/dotnet-blazor.pdb
