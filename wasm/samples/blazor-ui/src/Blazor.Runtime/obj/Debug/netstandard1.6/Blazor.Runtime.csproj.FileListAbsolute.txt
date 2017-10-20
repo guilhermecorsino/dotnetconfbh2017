@@ -6,3 +6,11 @@
 /Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Runtime/obj/Debug/netstandard1.6/Blazor.Runtime.AssemblyInfo.cs
 /Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Runtime/obj/Debug/netstandard1.6/Blazor.Runtime.dll
 /Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Runtime/obj/Debug/netstandard1.6/Blazor.Runtime.pdb
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Runtime/bin/Debug/netstandard1.6/Blazor.Runtime.deps.json
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Runtime/bin/Debug/netstandard1.6/Blazor.Runtime.dll
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Runtime/bin/Debug/netstandard1.6/Blazor.Runtime.pdb
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Runtime/obj/Debug/netstandard1.6/Blazor.Runtime.csproj.CoreCompileInputs.cache
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Runtime/obj/Debug/netstandard1.6/Blazor.Runtime.AssemblyInfoInputs.cache
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Runtime/obj/Debug/netstandard1.6/Blazor.Runtime.AssemblyInfo.cs
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Runtime/obj/Debug/netstandard1.6/Blazor.Runtime.dll
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Runtime/obj/Debug/netstandard1.6/Blazor.Runtime.pdb

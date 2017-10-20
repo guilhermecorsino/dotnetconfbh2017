@@ -8,3 +8,13 @@
 /Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/samples/JSLibs/obj/Debug/netstandard1.6/JSLibs.AssemblyInfo.cs
 /Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/samples/JSLibs/obj/Debug/netstandard1.6/JSLibs.dll
 /Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/samples/JSLibs/obj/Debug/netstandard1.6/JSLibs.pdb
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/samples/JSLibs/bin/Debug/netstandard1.6/JSLibs.deps.json
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/samples/JSLibs/bin/Debug/netstandard1.6/JSLibs.dll
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/samples/JSLibs/bin/Debug/netstandard1.6/JSLibs.pdb
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/samples/JSLibs/bin/Debug/netstandard1.6/Blazor.Runtime.dll
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/samples/JSLibs/bin/Debug/netstandard1.6/Blazor.Runtime.pdb
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/samples/JSLibs/obj/Debug/netstandard1.6/JSLibs.csproj.CoreCompileInputs.cache
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/samples/JSLibs/obj/Debug/netstandard1.6/JSLibs.AssemblyInfoInputs.cache
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/samples/JSLibs/obj/Debug/netstandard1.6/JSLibs.AssemblyInfo.cs
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/samples/JSLibs/obj/Debug/netstandard1.6/JSLibs.dll
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/samples/JSLibs/obj/Debug/netstandard1.6/JSLibs.pdb

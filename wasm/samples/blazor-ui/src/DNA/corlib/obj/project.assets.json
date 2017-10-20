@@ -14,24 +14,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/DNA/corlib/corlib.csproj",
+      "projectUniqueName": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/DNA/corlib/corlib.csproj",
       "projectName": "corlib",
-      "projectPath": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/DNA/corlib/corlib.csproj",
+      "projectPath": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/DNA/corlib/corlib.csproj",
       "packagesPath": "/Users/guilhermecorsino/.nuget/packages/",
-      "outputPath": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/DNA/corlib/obj/",
+      "outputPath": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/DNA/corlib/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/NuGet.Config",
+        "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/NuGet.Config",
         "/Users/guilhermecorsino/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard1.3"
       ],
       "sources": {
-        "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/artifacts": {},
+        "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/artifacts": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

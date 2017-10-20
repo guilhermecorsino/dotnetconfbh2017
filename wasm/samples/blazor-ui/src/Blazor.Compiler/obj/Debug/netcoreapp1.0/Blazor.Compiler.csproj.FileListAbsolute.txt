@@ -12,3 +12,17 @@
 /Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Compiler/obj/Debug/netcoreapp1.0/Blazor.Compiler.AssemblyInfo.cs
 /Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Compiler/obj/Debug/netcoreapp1.0/Blazor.Compiler.dll
 /Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Compiler/obj/Debug/netcoreapp1.0/Blazor.Compiler.pdb
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Compiler/bin/Debug/netcoreapp1.0/Blazor.Compiler.deps.json
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Compiler/bin/Debug/netcoreapp1.0/Blazor.Compiler.runtimeconfig.json
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Compiler/bin/Debug/netcoreapp1.0/Blazor.Compiler.runtimeconfig.dev.json
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Compiler/bin/Debug/netcoreapp1.0/Blazor.Compiler.dll
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Compiler/bin/Debug/netcoreapp1.0/Blazor.Compiler.pdb
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Compiler/bin/Debug/netcoreapp1.0/Blazor.AngleSharp.dll
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Compiler/bin/Debug/netcoreapp1.0/Blazor.Runtime.dll
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Compiler/bin/Debug/netcoreapp1.0/Blazor.AngleSharp.pdb
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Compiler/bin/Debug/netcoreapp1.0/Blazor.Runtime.pdb
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Compiler/obj/Debug/netcoreapp1.0/Blazor.Compiler.csproj.CoreCompileInputs.cache
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Compiler/obj/Debug/netcoreapp1.0/Blazor.Compiler.AssemblyInfoInputs.cache
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Compiler/obj/Debug/netcoreapp1.0/Blazor.Compiler.AssemblyInfo.cs
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Compiler/obj/Debug/netcoreapp1.0/Blazor.Compiler.dll
+/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Compiler/obj/Debug/netcoreapp1.0/Blazor.Compiler.pdb

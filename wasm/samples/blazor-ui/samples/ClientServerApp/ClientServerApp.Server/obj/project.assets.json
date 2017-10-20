@@ -13096,37 +13096,37 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/samples/ClientServerApp/ClientServerApp.Server/ClientServerApp.Server.csproj",
+      "projectUniqueName": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/samples/ClientServerApp/ClientServerApp.Server/ClientServerApp.Server.csproj",
       "projectName": "ClientServerApp.Server",
-      "projectPath": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/samples/ClientServerApp/ClientServerApp.Server/ClientServerApp.Server.csproj",
+      "projectPath": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/samples/ClientServerApp/ClientServerApp.Server/ClientServerApp.Server.csproj",
       "packagesPath": "/Users/guilhermecorsino/.nuget/packages/",
-      "outputPath": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/samples/ClientServerApp/ClientServerApp.Server/obj/",
+      "outputPath": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/samples/ClientServerApp/ClientServerApp.Server/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/NuGet.Config",
+        "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/NuGet.Config",
         "/Users/guilhermecorsino/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/artifacts": {},
+        "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/artifacts": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Host/Blazor.Host.csproj": {
-              "projectPath": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/Blazor.Host/Blazor.Host.csproj"
+            "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Host/Blazor.Host.csproj": {
+              "projectPath": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/Blazor.Host/Blazor.Host.csproj"
             },
-            "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/samples/ClientServerApp/ClientServerApp.Client/ClientServerApp.Client.csproj": {
-              "projectPath": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/samples/ClientServerApp/ClientServerApp.Client/ClientServerApp.Client.csproj"
+            "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/samples/ClientServerApp/ClientServerApp.Client/ClientServerApp.Client.csproj": {
+              "projectPath": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/samples/ClientServerApp/ClientServerApp.Client/ClientServerApp.Client.csproj"
             },
-            "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/samples/ClientServerApp/ClientServerApp.Shared/ClientServerApp.Shared.csproj": {
-              "projectPath": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/samples/ClientServerApp/ClientServerApp.Shared/ClientServerApp.Shared.csproj"
+            "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/samples/ClientServerApp/ClientServerApp.Shared/ClientServerApp.Shared.csproj": {
+              "projectPath": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/samples/ClientServerApp/ClientServerApp.Shared/ClientServerApp.Shared.csproj"
             }
           }
         }

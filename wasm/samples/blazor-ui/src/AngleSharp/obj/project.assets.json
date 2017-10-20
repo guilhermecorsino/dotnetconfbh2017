@@ -3709,24 +3709,24 @@
   "project": {
     "version": "0.2.2-preview",
     "restore": {
-      "projectUniqueName": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/AngleSharp/AngleSharp.Core.csproj",
+      "projectUniqueName": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/AngleSharp/AngleSharp.Core.csproj",
       "projectName": "Blazor.AngleSharp",
-      "projectPath": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/AngleSharp/AngleSharp.Core.csproj",
+      "projectPath": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/AngleSharp/AngleSharp.Core.csproj",
       "packagesPath": "/Users/guilhermecorsino/.nuget/packages/",
-      "outputPath": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/src/AngleSharp/obj/",
+      "outputPath": "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/src/AngleSharp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/NuGet.Config",
+        "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/NuGet.Config",
         "/Users/guilhermecorsino/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard1.3"
       ],
       "sources": {
-        "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/Blazor/artifacts": {},
+        "/Users/guilhermecorsino/DotNetConf/dotnetconfbh2017/wasm/samples/blazor-ui/artifacts": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
